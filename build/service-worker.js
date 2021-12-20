@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wave-me-portal/precache-manifest.97ddb7f7d6fceba141dc764c52042dfe.js"
+  "/wave-me-portal/precache-manifest.cf8db6b1d742c4d55033bc65ccd42c39.js"
 );
 
 self.addEventListener('message', (event) => {
