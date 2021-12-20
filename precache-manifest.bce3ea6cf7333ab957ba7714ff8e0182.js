@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17dee736b036454cda2dc722db926b4f",
+    "revision": "8796678ff27ad7ab29207e4e882572a4",
     "url": "/wave-me-portal/index.html"
   },
   {
