@@ -32,3 +32,12 @@
   border-radius: 5px;
   
 }
+
+input[type=text] {
+  height: 30px;
+  position: relative;
+  border: 1px solid #cdcdcd;
+  border-color: rgba(80, 77, 77, 0.14);
+  background-color: rgb(215, 231, 241);
+  font-size: 14px;
+}
