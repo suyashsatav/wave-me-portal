@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c484f5378f7aaa5b2b8d80ba11a5f6e",
+    "revision": "4bca4afcf455a5046bbf313e0ff29445",
     "url": "/wave-me-portal/index.html"
   },
   {
-    "revision": "ad24e142301aba5fb882",
+    "revision": "66f3530f70a108923e34",
     "url": "/wave-me-portal/static/css/main.eebd02ce.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wave-me-portal/static/js/2.3dcdfe51.chunk.js"
   },
   {
-    "revision": "ad24e142301aba5fb882",
-    "url": "/wave-me-portal/static/js/main.f98ac45c.chunk.js"
+    "revision": "66f3530f70a108923e34",
+    "url": "/wave-me-portal/static/js/main.ed2e23df.chunk.js"
   },
   {
     "revision": "1ef8609d64a4c1a0ec88",
